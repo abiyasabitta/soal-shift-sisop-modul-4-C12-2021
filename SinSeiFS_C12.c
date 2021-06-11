@@ -9,9 +9,9 @@
 #include <unistd.h>
 
 
-static const char *dirpath = "/home/anran/Downloads";
-static const char *AtoZLogPath = "/home/anran/AtoZ.log";
-static const char *FSLogPath = "/home/anran/SinSeiFS.log";
+static const char *dirpath = "/home/abit/Downloads";
+static const char *AtoZLogPath = "/home/abit/AtoZ.log";
+static const char *FSLogPath = "/home/abit/SinSeiFS.log";
 
 void Atbash(char *name, int isFile)
 {
